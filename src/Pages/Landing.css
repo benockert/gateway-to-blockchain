@@ -3,7 +3,7 @@ h3 {
 }
 
 .landing-page {
-  max-width: 500px;
+  max-width: 95vw;
   display: flex;
   justify-content: center;
   align-items: center;
